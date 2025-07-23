@@ -1,4 +1,4 @@
-🛠 Simple Vali Tool – No Coding Needed
+🛠 Simple Vali Tool. No Coding Needed
 This tool allows you to easily generate from Vali JSON files or update without command line. It's designed for users with zero programming experience, or for map makers who just want to speed up the process.
 
 Want to build or tweak a config quickly? This tool has you covered.
