@@ -7,6 +7,6 @@ I've included the original .py file if you'd like to run or modify it yourself.
 
 For everyone else, there's a precompiled .exe release  just download it and start genning right away!
 
-If by some chance you're here without know what VALI is please check out SlashP' work at:
+If by some chance you're here without knowing what VALI is, please check out SlashP' work at:
 
 https://github.com/slashP/Vali
